@@ -1,0 +1,30 @@
+@keyframes change-color {
+    0%,
+    100% {
+        color: rgb(255, 206, 126);
+    }
+    40% {
+        color:rgb(250, 169, 93);
+    }
+    70% {
+        color: rgb(255, 167, 145);
+    }
+}
+@keyframes ct-color {
+    0%,
+    100% {
+        color: rgb(255, 96, 117);
+    }
+    20% {
+        color:rgb(255, 244, 96);
+    }
+    40% {
+        color: rgb(96, 255, 136);
+    }
+    60% {
+        color:rgb(96, 152, 255);
+    }
+    80% {
+        color:rgb(255, 96, 228);
+    }
+}
